@@ -1,2 +1,2 @@
-# PortPolio
+# Portfolio
 신입 데이터 사이언티스트 이찬규의 포트폴리오
