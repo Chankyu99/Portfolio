@@ -17,7 +17,7 @@
 
 포트폴리오 외 다른 프로젝트 모음입니다. 
 
-- [ML/논문 연구][` `]()
+- [ML/논문 연구][`Twisted 2D materials stacking domain Classification](https://github.com/Chankyu99/2024_UOS_Physics)
 
 - [24-2 빅데이터물리 파이널 프로젝트][` `]()
 
