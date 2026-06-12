@@ -19,7 +19,7 @@
 
 - [24-2 빅데이터물리 파이널 프로젝트] [`RR Lyrae 변광성 분류 후속 연구 프로젝트`](https://github.com/Chankyu99/2024_BigDataPhysics)
 
-- [MLOps] [`Netflix 추천 시스템 개발 및 배포`](https://github.com/Chankyu99/ModuLABS/tree/master/08_MLOps)
+- [MLOps] [`PyTorch 평점 예측 모델의 Vertex AI 서빙 검증 프로젝트`](https://github.com/Chankyu99/ModuLABS/tree/master/08_MLOps)
 
 - [DL/NLP] [`DKTC 대화 텍스트 분류`](https://github.com/Chankyu99/ModuLABS/tree/master/06_DeepLearning/NLP/DKTC)
 
